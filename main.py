@@ -13,7 +13,7 @@ import sys
 
 LINE = (
     "In my defence, the sock resigned from foot duty and applied to be "
-    "lunch. I only processed the paperwork."
+    "lunch \u2014 I only processed the paperwork."
 )
 
 
